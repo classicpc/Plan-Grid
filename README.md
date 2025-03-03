@@ -55,18 +55,6 @@ npm run build
 ```
 This will create a `dist` folder with optimized production files.
 
-## Project Structure
-```
-plan-grid/
-├── src/
-│   ├── App.tsx          # Main application component
-│   ├── components/      # TaskCard and TaskForm components
-│   ├── types.ts         # TypeScript type definitions
-├── tailwind.config.js   # Tailwind CSS configuration
-├── vite.config.ts       # Vite configuration
-└── package.json         # Project dependencies
-```
-
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
